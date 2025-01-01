@@ -25,8 +25,5 @@ To run this application, you will need:
    dotnet run
 
 ## .NET conventions:
-https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
-https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names
-
-## Code explanation
-
+[Coding conventions] https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+[Identifier names] https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names
